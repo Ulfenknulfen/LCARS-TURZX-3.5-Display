@@ -45,6 +45,7 @@ Apply the configuration.
 Enjoy your new LCARS interface.
 Screenshot Gallery
 Main Operations Console
+for AIDA64 you need Haettenschweiler.ttf (easy to find for free)
 
 ![LCARS_AIDA](images/LCARS_AIDA.png)
 
