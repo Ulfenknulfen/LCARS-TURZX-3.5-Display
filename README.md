@@ -47,9 +47,9 @@ Screenshot Gallery
 Main Operations Console
 for AIDA64 you need Haettenschweiler.ttf (easy to find for free)
 
-![LCARS_AIDA](images/LCARS_AIDA.png)
+![LCARS_AIDA](LCARS_AIDA.png)
 
-![LCARS_TURZX](images/LCARS_TURZX.png)
+![LCARS_TURZX](LCARS_TURZX.png)
 
 Design Goals
 
