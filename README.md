@@ -50,7 +50,7 @@ for AIDA64 you need Haettenschweiler.ttf (easy to find for free)
 ## Preview AIDA64 Theme
 ![LCARS_AIDA](LCARS_AIDA64.png)
 
-## Prview Turzx Theme
+## Preview Turzx Theme
 ![LCARS_TURZX](LCARS_TURZX.png)
 
 Design Goals
